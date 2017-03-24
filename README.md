@@ -2,7 +2,7 @@
 
 **Page like effect** in  iOS .
 
-![](gif/2.gif) 
+![](gif/1231.gif) 
 
 
 
@@ -14,11 +14,11 @@
 
 
 
-![](gif/pin_horizontal.gif)
+![](gif/FutureUpdates.gif)
 
 
 
-![](gif/pin_vertical.gif)
+
 
 
 
