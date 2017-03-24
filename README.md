@@ -45,9 +45,9 @@ Here's a walkthrough of implemented user stories:
 The following features can be implemented in future:
 
 * [x] User can view the images in moments.
-* [x] User allow to take photos and videos and uppload them in the real time.
+* [x] User allow to take photos and videos and upload them in the real time.
 * [x] User allowed to add filters to photos and videos.
-* [x] Sharing option and adding extendions.
+* [x] Sharing option and adding extensions.
 * [x] User can create there own albums.
 
 
