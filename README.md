@@ -14,7 +14,7 @@
 
 
 
-![](gif/FutureUpdates.png)
+![alt tag](gif/FutureUpdates.png)
 
 
 
