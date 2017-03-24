@@ -2,8 +2,7 @@
 
 **MyGallery** in  iOS .
 
-Swift 3
-
+Swift 3 
 Xcode 8.2.1
 1. Photos Framework.
 2. AVKit framework.
