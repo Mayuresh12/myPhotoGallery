@@ -34,7 +34,16 @@ Here's a walkthrough of implemented user stories:
 
 
 
-**Pinterest like application using the collection views** in iOS.
+The following features can be implemented in future:
+
+* [x] User can view the images in moments.
+* [x] User allow to take photos and videos and uppload them in the real time.
+* [x] User allowed to add filters to photos and videos.
+* [x] Sharing option and adding extendions.
+* [x] User can create there own albums.
+
+
+
 
 ![](gif/FutureUpdates.png)
 
