@@ -41,8 +41,9 @@ Here's a walkthrough of implemented user stories:
 
 
 
+## Future implementation
 
-The following features can be implemented in future:
+The following features can be implemented in the current project:
 
 * [x] User can view the images in moments.
 * [x] User allow to take photos and videos and upload them in the real time.
