@@ -39,8 +39,8 @@
 		EAB8F08E1E8447DC00A6AE35 /* AVKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVKit.framework; path = System/Library/Frameworks/AVKit.framework; sourceTree = SDKROOT; };
 		EAB8F0901E8447E200A6AE35 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		EAEB31651E852EF100CF71B2 /* myOptionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = myOptionViewController.swift; sourceTree = "<group>"; };
-		EAEB31671E85327D00CF71B2 /* collage-rect.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "collage-rect.jpg"; path = "../../collage-rect.jpg"; sourceTree = "<group>"; };
-		EAEB31691E85353300CF71B2 /* BackGround.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = BackGround.jpg; path = ../../BackGround.jpg; sourceTree = "<group>"; };
+		EAEB31671E85327D00CF71B2 /* collage-rect.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "collage-rect.jpg"; sourceTree = "<group>"; };
+		EAEB31691E85353300CF71B2 /* BackGround.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BackGround.jpg; sourceTree = "<group>"; };
 		EAEB316B1E859CF900CF71B2 /* PlayVideoOverlay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PlayVideoOverlay.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
