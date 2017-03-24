@@ -14,53 +14,8 @@
 
 
 
-![](gif/FutureUpdates.gif)
+![](gif/FutureUpdates.png)
 
-
-
-
-
-
-
-
-
-**Virtual reality application** in iOS.
-
-![](gif/Panoramicvideo(VR app).gif)
-
-
-
-
-**Massage Resevation application** in iOS.
-
-![](gif/resevationApplication.gif)
-
-
-
-
-
-
-**iTransBuddy** in iOS.
-
-![](gif/3.gif)
-
-
-
-
-
-**Coupon application** in iOS.
-
-![](gif/Coupnapplication.gif)
-
-
-
-
-
-
-
-**Food Near U** in iOS.
-
-![](gif/foodNearYou.gif)
 
 
 
